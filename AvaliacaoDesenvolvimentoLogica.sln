@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pergunta1", "Pergunta1\Perg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pergunta2", "Pergunta2\Pergunta2.csproj", "{C492C5CC-837E-4E5C-9A32-5E56D2DBEFEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pergunta3", "Pergutan3\Pergunta3.csproj", "{88B68E14-5997-4C30-8C36-43A14259BD90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pergunta3", "Pergunta3\Pergunta3.csproj", "{88B68E14-5997-4C30-8C36-43A14259BD90}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pergunta4", "Pergunta4\Pergunta4.csproj", "{F0CA29D7-AF61-4636-8213-8B1652F39528}"
 EndProject
