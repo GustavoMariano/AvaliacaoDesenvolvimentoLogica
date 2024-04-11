@@ -16,7 +16,6 @@
 
 int totalCarrosAte2000 = 0;
 int totalGeral = 0;
-
 string continuar;
 
 do
